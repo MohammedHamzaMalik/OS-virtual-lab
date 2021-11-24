@@ -1,4 +1,4 @@
-# Operating System Lab Project
+# Operating System Virtual Lab Project
 
 ## ReadMe File
 
