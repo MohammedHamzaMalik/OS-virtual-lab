@@ -1,8 +1,26 @@
-# Operating System Virtual Lab Project
+<div align="center">
+  
+![made-with-python](https://img.shields.io/badge/Made%20with-Python3-brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/MohammedHamzaMalik/OS-virtual-lab)
+![made-with-love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff69b4)
+![GitHub repo size](https://img.shields.io/github/repo-size/MohammedHamzaMalik/OS-virtual-lab)
+![Lines of code](https://img.shields.io/tokei/lines/github/MohammedHamzaMalik/OS-virtual-lab?color=lightblue)
+  
+</div>
 
-## ReadMe File
+<h1 align="center"> Operating System Virtual Lab Project </h1> <br>
 
-### Introduction:
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Guide to run the Operating System Virtual Lab](#guide-to-run-the-Operating-System-Virtual-Lab)
+- [CPU Scheduling Algorithm](#CPUSchedulingAlgorithm)
+- [About](#About)
+- [Team Members](#TeamMembers)
+
+
+<h2 align="left" id="introduction"> Introduction: </h2> <br>
+<!-- ### Introduction: -->
 
 This Python GUI is created and designed to provide comprehensive information about what an operating system is and the various algorithms that support it.
 
@@ -18,7 +36,8 @@ The Python GUI front page displays all four algorithms of an operating system. T
 - Lottery
 - Multi-Level Queue
 
-### Guide to run the Operating System Virtual Lab:
+<h2 align="left" id="guide-to-run-the-Operating-System-Virtual-Lab"> Guide to run the Operating System Virtual Lab: </h2> <br>
+<!-- ### Guide to run the Operating System Virtual Lab: -->
 
 1. Go to the GitHub repository link:
 
@@ -34,7 +53,8 @@ The Python GUI front page displays all four algorithms of an operating system. T
 9. It will open up a new window with title Scheduling Algorithm Simulator.Choose your desired one and click on it.
 10. It will open up a new window showing the definition of the specific algorithm and taking random inputs it will show the specific details according to it.
 
-### CPU Scheduling Algorithm:
+<h2 align="left" id="CPUSchedulingAlgorithm"> CPU Scheduling Algorithm: </h2> <br>
+<!-- ### CPU Scheduling Algorithm: -->
 
 1. **FCFS:**
 
@@ -127,8 +147,8 @@ Implementation:
 - The code for this is available in the CPUScheduling.py file.
 
 
-
-### About:
+<h2 align="left" id="About"> About: </h2> <br>
+<!-- ### About: -->
 
 - Technologies used in the project:
 
@@ -138,7 +158,8 @@ Python, Tkinter GUI library for Python Interface
 
 Pycharm IDE
 
-### Team Members:
+<h2 align="left" id="TeamMembers"> Team Members: </h2> <br>
+<!-- ### Team Members: -->
 
 Manav Dhami
 
@@ -149,4 +170,3 @@ Priyam Seth
 Priyanshu Datta
 
 Pratham Jain
-
