@@ -104,9 +104,9 @@ The Python GUI front page displays all four algorithms of an operating system. T
 <!-- ### 3. **Priority Based Scheduling:** -->
 <h2 align="left" id="PriorityBasedScheduling"> 3. Priority Based Scheduling </h2>
 
-**Priority Scheduling is a method of scheduling processes that is based on Priority.
+**Priority Scheduling is a method of scheduling processes that is based on Priority.**
 
-Implementation:**
+**Implementation:**
 
 - Click on the **“Scheduling Algorithm”** button from the main window.
 - Now click on the **“Priority Based Scheduling”** button from the new window opened.
@@ -120,10 +120,10 @@ Implementation:**
 <!-- ### 4. **Round Robin:**  -->
 <h2 align="left" id="RoundRobin"> 4. Round Robin </h2>
 
-**Round Robin is the oldest, simplest scheduling algorithm, which is mostly used for multitasking.
+**Round Robin is the oldest, simplest scheduling algorithm, which is mostly used for multitasking.**
 
-Implementation:
-**
+**Implementation:**
+
 - Click on the **“Scheduling Algorithm”** button from the main window.
 - Now click on the **“Round Robin Scheduling”** button from the new window opened.
 - It will open up a new window in which first there will be the definition of it.
@@ -136,10 +136,10 @@ Implementation:
 <!-- ### 5. **Lottery Scheduling:** -->
 <h2 align="left" id="LotteryScheduling"> 5. Lottery Scheduling </h2>
 
-**It is a type of process scheduling, somewhat different from other Scheduling. It can be pre-emptive or non- pre-emptive.
+**It is a type of process scheduling, somewhat different from other Scheduling. It can be pre-emptive or non- pre-emptive.**
 
-Implementation:
-**
+**Implementation:**
+
 - Click on the **“Scheduling Algorithm”** button from the main window.
 - Now click on the **“Lottery Scheduling”** button from the new window opened.
 - It will open up a new window in which first there will be the definition of it.
@@ -152,10 +152,10 @@ Implementation:
 <!-- ### 6. **Multi-Level Queue:** -->
 <h2 align="left" id="MultiLevelQueue"> 6. Multi-Level Queue </h2>
 
-**A Multi-Level Queue scheduling algorithm partitions the ready queue into several separate queues.
+**A Multi-Level Queue scheduling algorithm partitions the ready queue into several separate queues.**
 
-Implementation:
-**
+**Implementation:**
+
 - Click on the **“Scheduling Algorithm”** button from the main window.
 - Now click on the **“Multi-Level Queue Scheduling”** button from the new window opened.
 - It will open up a new window in which first there will be the definition of it.
