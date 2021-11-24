@@ -10,14 +10,21 @@
 
 <h1 align="center"> Operating System Virtual Lab Project </h1> <br>
 
-## Table of Contents
+<br /><br />
 
-- [Introduction](#introduction)
-- [Guide to run the Operating System Virtual Lab](#guide-to-run-the-Operating-System-Virtual-Lab)
-- [CPU Scheduling Algorithm](#CPUSchedulingAlgorithm)
-- [About](#About)
-- [Team Members](#TeamMembers)
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124739629-f43cde80-df11-11eb-9033-c5d1d7194f03.png" width="50px" />
 
+# Table of Contents
+
+- ### [Introduction](#introduction)
+- ### [Guide to run the Operating System Virtual Lab](#guide-to-run-the-Operating-System-Virtual-Lab)
+- ### [CPU Scheduling Algorithm](#CPUSchedulingAlgorithm)
+- ### [About](#About)
+- ### [Team Members](#TeamMembers)
+
+<br /><br />
+
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124739888-2cdcb800-df12-11eb-8952-5be64764a7aa.png" width="50px" />
 
 <h2 align="left" id="introduction"> Introduction: </h2> <br>
 <!-- ### Introduction: -->
@@ -36,6 +43,10 @@ The Python GUI front page displays all four algorithms of an operating system. T
 - Lottery
 - Multi-Level Queue
 
+<br /><br />
+
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740742-f94e5d80-df12-11eb-8ca9-7d2ad4f56e3d.png" width="50px" />
+
 <h2 align="left" id="guide-to-run-the-Operating-System-Virtual-Lab"> Guide to run the Operating System Virtual Lab: </h2> <br>
 <!-- ### Guide to run the Operating System Virtual Lab: -->
 
@@ -52,6 +63,10 @@ The Python GUI front page displays all four algorithms of an operating system. T
 8. On that window there will be four algorithm showed, click on the Scheduling Algorithm and work with your desired algorithm.
 9. It will open up a new window with title Scheduling Algorithm Simulator.Choose your desired one and click on it.
 10. It will open up a new window showing the definition of the specific algorithm and taking random inputs it will show the specific details according to it.
+
+<br /><br />
+
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740181-74634400-df12-11eb-929c-9aa1bf060806.png" width="50px" />
 
 <h2 align="left" id="CPUSchedulingAlgorithm"> CPU Scheduling Algorithm: </h2> <br>
 <!-- ### CPU Scheduling Algorithm: -->
@@ -146,17 +161,24 @@ Implementation:
 - After that there will be two options, either you can run another program or quit from there only.
 - The code for this is available in the CPUScheduling.py file.
 
+<br /><br />
+
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740290-8e048b80-df12-11eb-9c29-654c9cb4561b.png" width="50px" />
 
 <h2 align="left" id="About"> About: </h2> <br>
 <!-- ### About: -->
 
-- Technologies used in the project:
+### Technologies used in the project:
 
-Python, Tkinter GUI library for Python Interface
+- Python, Tkinter GUI library for Python Interface
 
-- Code Editor:
+### Code Editor:
 
-Pycharm IDE
+- Pycharm IDE
+
+<br /><br />
+
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="50px" />
 
 <h2 align="left" id="TeamMembers"> Team Members: </h2> <br>
 <!-- ### Team Members: -->
