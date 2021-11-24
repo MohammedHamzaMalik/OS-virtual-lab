@@ -35,13 +35,13 @@ It was created by our seniors for Disk Scheduling algorithm and Page Replacement
 
 The Python GUI front page displays all four algorithms of an operating system. The UI itself has more connections and directions. The GUI content map is as follows:
 
-1. CPU scheduling algorithm:
-- FCFS 
-- SJF 
-- Priority
-- Round Robin
-- Lottery
-- Multi-Level Queue
+## CPU scheduling algorithm:
+- ### [FCFS](FCFS)
+- ### [SJF](SJF)
+- ### [Priority Based Scheduling](PriorityBasedScheduling)
+- ### [Round Robin](RoundRobin)
+- ### [Lottery Scheduling](LotteryScheduling)
+- ### [Multi-Level Queue](#MultiLevelQueue)
 
 <br /><br />
 
@@ -71,7 +71,7 @@ The Python GUI front page displays all four algorithms of an operating system. T
 <h2 align="left" id="CPUSchedulingAlgorithm"> CPU Scheduling Algorithm: </h2> <br>
 <!-- ### CPU Scheduling Algorithm: -->
 
-1. **FCFS:**
+<h2 align="left" id="FCFS"> FCFS </h2>
 
 First Come First Serve is the full form of FCFS, which is the easiest and simplest CPU scheduling algorithm.
 
@@ -86,7 +86,7 @@ Implementation:
 - After that there will be two options, either you can run another program or quit from there only.
 - The code for this is available in the CPUScheduling.py file.
 
-2. **SJF:** 
+<h2 align="left" id="SJF"> SJF </h2>
 
 The shortest job first (SJF) scheduling is an algorithm, which, in simple words, means that the shortest job gets executed first.
 
@@ -101,7 +101,8 @@ Implementation:
 - After that there will be two options, either you can run another program or quit from there only.
 - The code for this is available in the CPUScheduling.py file.
 
-3. **Priority Based Scheduling:**
+<!-- ### 3. **Priority Based Scheduling:** -->
+<h2 align="left" id="PriorityBasedScheduling"> Priority Based Scheduling </h2>
 
 Priority Scheduling is a method of scheduling processes that is based on Priority.
 
@@ -116,7 +117,8 @@ Implementation:
 - After that there will be two options, either you can run another program or quit from there only.
 - The code for this is available in the CPUScheduling.py file.
 
-4. **Round Robin:** 
+<!-- ### 4. **Round Robin:**  -->
+<h2 align="left" id="RoundRobin"> Round Robin </h2>
 
 Round Robin is the oldest, simplest scheduling algorithm, which is mostly used for multitasking.
 
@@ -131,7 +133,8 @@ Implementation:
 - After that there will be two options, either you can run another program or quit from there only.
 - The code for this is available in the CPUScheduling.py file.
 
-5. **Lottery Scheduling:**
+<!-- ### 5. **Lottery Scheduling:** -->
+<h2 align="left" id="LotteryScheduling"> Lottery Scheduling </h2>
 
 It is a type of process scheduling, somewhat different from other Scheduling. It can be pre-emptive or non- pre-emptive.
 
@@ -146,7 +149,8 @@ Implementation:
 - After that there will be two options, either you can run another program or quit from there only.
 - The code for this is available in the CPUScheduling.py file.
 
-6. **Multi-Level Queue:**
+<!-- ### 6. **Multi-Level Queue:** -->
+<h2 align="left" id="MultiLevelQueue"> Multi-Level Queue </h2>
 
 A Multi-Level Queue scheduling algorithm partitions the ready queue into several separate queues.
 
